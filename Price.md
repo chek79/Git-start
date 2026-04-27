@@ -1,2 +1,2 @@
 #Price list
-VRFusion is $699
+VRFusion is $499

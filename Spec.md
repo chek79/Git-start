@@ -1,1 +1,1 @@
-Weight = 600g
+Weight = 700g
